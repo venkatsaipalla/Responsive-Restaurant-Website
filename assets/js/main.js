@@ -93,8 +93,8 @@ themeButton.addEventListener('click', () => {
 const sr = ScrollReveal({
     origin: 'top',
     distance: '30px',
-    duration: 2000,
-    reset: true
+    duration: 1700,
+    
 });
 
 sr.reveal(`.home__data, .home__img,
